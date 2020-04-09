@@ -1,0 +1,20 @@
+package com.example;
+
+public enum ExampleProvinceEnum {
+    MAZOWIECKIE,
+    LUBELSKIE,
+    LUBUSKIE,
+    PODKARPACKIE,
+    PODLASKIE,
+    MAŁOPOLSKIE,
+    ŁÓDZKIE,
+    ŚWIĘTOKRZYSKIE,
+    OPOLSKIE,
+    ŚLĄSKIE,
+    POMORSKIE,
+    ZACHPDNIOPOMORSKIE,
+    WARMIŃSKO_MAZURSKIE,
+    DOLNOŚLĄSKIE,
+    KUJAWSKO_POMORSKIE,
+    WIELKOPOLSKIE
+}
